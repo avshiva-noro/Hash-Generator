@@ -1,3 +1,4 @@
+<h1>Hash-Generator</h1>
 for using the hash gen
 python3 Hash\ Generator.py
 
